@@ -17,6 +17,10 @@ Add new states to the plot. States will appear as you type.
 
 ![Alt text](/Images/screengrab3.png?raw=true "Adding states")
 
+Adjust number of days (upto 290 days back from today).
+
+![Alt text](/Images/screengrab4.png?raw=true "Adding states")
+
 # Running the App
 
 Download the repository to your local machine and go to the repository.
@@ -26,7 +30,9 @@ cd path/to/directory
 ```
 
 Install dependencies from requirements:
+
 ```pip3 install -r requirements.txt```
 
-To run:
+To Run:
+
 ```streamlit run covid-streamlit.py```

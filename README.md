@@ -36,3 +36,5 @@ Install dependencies from requirements:
 To Run:
 
 ```streamlit run covid-streamlit.py```
+
+Do star the repository if you like.
